@@ -1,0 +1,678 @@
+competition_name,to_team_name,player_name,market_value,transfer_fees,variation_pct,rank
+Saudi Pro League,Al-Ittihad Club,Hamed Al-Ghamdi,250000.0,9160000.0,3564.0,1
+Saudi Pro League,Al-Ittihad Club,Ahmed Al-Julaydan,300000.0,10900000.0,3533.33,2
+Saudi Pro League,NEOM SC,Saïmon Bouabré,300000.0,10000000.0,3233.33,3
+Saudi Pro League,NEOM SC,Alaa Hejji,200000.0,5730000.0,2765.0,4
+Saudi Pro League,NEOM SC,Thamer Al-Khaibri,125000.0,2860000.0,2188.0,5
+Brasileiro,Esporte Clube Bahia,Luiz Gustavo,300000.0,5000000.0,1566.67,6
+Saudi Pro League,Al-Nassr FC,Saad Al-Nasser,650000.0,9770000.0,1403.08,7
+Premier League,AFC Bournemouth,Veljko Milosavljevic,1000000.0,15000000.0,1400.0,8
+Bundesliga,RB Leipzig,Yan Diomande,1500000.0,20000000.0,1233.33,9
+Ligue 1,RC Strasbourg Alsace,Martial Godo,600000.0,7000000.0,1066.67,10
+Saudi Pro League,Al-Ahli SFC,Mohammed Abdulrahman,550000.0,5760000.0,947.27,11
+Liga Portugal,SL Benfica,Rafa Obrador,500000.0,5000000.0,900.0,12
+Serie A,Como 1907,Jayden Addai,1500000.0,14000000.0,833.33,13
+Super Lig,Trabzonspor,Christ Inao Oulaï,600000.0,5500000.0,816.67,14
+Saudi Pro League,NEOM SC,Abdulaziz Noor,650000.0,5730000.0,781.54,15
+Saudi Pro League,Al-Nassr FC,Haroune Camara,400000.0,3400000.0,750.0,16
+Brasileiro,Esporte Clube Bahia,Mateo Sanabria,600000.0,5000000.0,733.33,17
+Saudi Pro League,NEOM SC,Faris Abdi,450000.0,3400000.0,655.56,18
+Ligue 1,RC Strasbourg Alsace,Pape Demba Diop,1000000.0,7500000.0,650.0,19
+Saudi Pro League,Al-Ahli SFC,Saleh Abu Al-Shamat,300000.0,2069999.9999999998,590.0,20
+Saudi Pro League,Al-Shabab FC,Ali Makki,200000.0,1370000.0,585.0,21
+Saudi Pro League,Al-Ahli SFC,Abdulelah Al-Khaibri,450000.0,2960000.0,557.78,22
+Saudi Pro League,Al-Taawoun FC,Mohammed Mahzari,200000.0,1260000.0,530.0,23
+Serie A,Bologna FC 1909,Torbjørn Heggem,1200000.0,7500000.0,525.0,24
+La Liga,Deportivo Alavés,Youssef Enríquez,500000.0,3000000.0,500.0,25
+Premier League,Crystal Palace,Jaydee Canvot,4000000.0,23000000.0,475.0,26
+Eredivisie,Ajax Amsterdam,Joeri Heerkens,350000.0,2000000.0,471.43,27
+Ligue 1,Olympique Lyon,Ruben Kluivert,700000.0,3780000.0,440.0,28
+La Liga,CA Osasuna,Víctor Muñoz,1000000.0,5000000.0,400.0,29
+Liga Portugal,FC Famalicão,Roméo Beney,500000.0,2500000.0,400.0,30
+Ligue 1,Olympique Lyon,Afonso Moreira,400000.0,2000000.0,400.0,31
+Serie A,AC Milan,David Odogu,1500000.0,7000000.0,366.67,32
+Premier League,Wolverhampton Wanderers,Fer López,5000000.0,23000000.0,360.0,33
+Premier League,Brentford FC,Romelle Donovan,800000.0,3600000.0,350.0,34
+Brasileiro,Botafogo de Futebol e Regatas,Jordan Barrera,1000000.0,4300000.0,330.0,35
+Ligue 1,RC Strasbourg Alsace,Lucas Høgsberg,3500000.0,15000000.0,328.57,36
+La Liga,Atlético de Madrid,Marc Pubill,4000000.0,16000000.0,300.0,37
+Ligue 1,AS Monaco,Stanis Idumbo,2500000.0,10000000.0,300.0,38
+Premier League,Manchester City,Marcus Bettinelli,600000.0,2400000.0,300.0,39
+Liga Portugal,FC Famalicão,Marcos Peña,500000.0,2000000.0,300.0,40
+Ligue 1,Paris FC,Nhoa Sangui,2500000.0,9500000.0,280.0,41
+Bundesliga,VfB Stuttgart,Chema Andrés,800000.0,3000000.0,275.0,42
+Ligue 1,FC Toulouse,Julián Vignolo,400000.0,1500000.0,275.0,43
+Liga Portugal,CF Estrela Amadora,Robinho,150000.0,525000.0,250.0,44
+Serie A,Atalanta BC,Honest Ahanor,5000000.0,17000000.0,240.0,45
+Premier League,Fulham FC,Kevin,12000000.0,40000000.0,233.33,46
+La Liga,Villarreal CF,Santiago Mouriño,3000000.0,10000000.0,233.33,47
+Serie A,Cagliari Calcio,Juan Rodríguez,1200000.0,4000000.0,233.33,48
+Bundesliga,FC St. Pauli,Louis Oppie,600000.0,2000000.0,233.33,49
+Saudi Pro League,NEOM SC,Amadou Koné,4000000.0,13330000.0,233.25,50
+Ligue 1,Olympique Lyon,Matt Turner,2500000.0,8000000.0,220.0,51
+Serie A,ACF Fiorentina,Simon Sohm,5000000.0,15000000.0,200.0,52
+Liga Portugal,SC Braga,Pau Víctor,4000000.0,12000000.0,200.0,53
+La Liga,Real Betis Balompié,Gonzalo Petit,1500000.0,4500000.0,200.0,54
+Premier League,West Ham United,Mateus Fernandes,15000000.0,44000000.0,193.33,55
+Eredivisie,AZ Alkmaar,Weslley Patati,2500000.0,7300000.0,192.0,56
+Premier League,Brighton & Hove Albion,Charalampos Kostoulas,12000000.0,35000000.0,191.67,57
+Super Lig,Galatasaray,Uğurcan Çakır,9500000.0,27500000.0,189.47,58
+Saudi Pro League,Al-Qadsiah FC,Musab Al-Juwayr,4000000.0,11520000.0,188.0,59
+Saudi Pro League,Al-Qadsiah FC,Meshary Sanyor,400000.0,1150000.0,187.5,60
+Saudi Pro League,NEOM SC,Luciano Rodríguez,7000000.0,20000000.0,185.71,61
+Ligue 1,OGC Nice,Isak Jansson,3500000.0,10000000.0,185.71,62
+Bundesliga,Bayer 04 Leverkusen,Janis Blaswich,700000.0,2000000.0,185.71,63
+Saudi Pro League,Al-Najma SC,Samir Caetano,1800000.0,5100000.0,183.33,64
+Saudi Pro League,Al-Qadsiah FC,Mohamed Al-Thani,900000.0,2530000.0,181.11,65
+Liga Portugal,CD Tondela,Brayan Medina,900000.0,2500000.0,177.78,66
+Liga Portugal,Sporting CP,Luis Suárez,8000000.0,22200000.0,177.5,67
+Liga Portugal,SC Braga,Mario Dorgeles,4000000.0,11000000.0,175.0,68
+Ligue 1,OGC Nice,Kojo Peprah Oppong,1000000.0,2680000.0,168.0,69
+Serie A,US Lecce,Corrie Ndaba,350000.0,930000.0,165.71,70
+Premier League,Sunderland AFC,Robin Roefs,4000000.0,10500000.0,162.5,71
+Saudi Pro League,Al-Nassr FC,Abdulmalik Al-Jaber,700000.0,1800000.0,157.14,72
+Premier League,Newcastle United,Nick Woltemade,30000000.0,75000000.0,150.0,73
+Saudi Pro League,Al-Ahli SFC,Valentin Atangana,10000000.0,25000000.0,150.0,74
+Premier League,Sunderland AFC,Chemsdine Talbi,8000000.0,20000000.0,150.0,75
+Bundesliga,Bayer 04 Leverkusen,Ernest Poku,4000000.0,10000000.0,150.0,76
+Saudi Pro League,Al-Najma SC,Lázaro,2000000.0,5000000.0,150.0,77
+Serie A,Udinese Calcio,Luca Kjerrumgaard,2000000.0,5000000.0,150.0,78
+Bundesliga,VfB Stuttgart,Lazar Jovanovic,2000000.0,5000000.0,150.0,79
+Serie A,Como 1907,Jacobo Ramón,1000000.0,2500000.0,150.0,80
+Premier League,Brighton & Hove Albion,Do-young Yoon,800000.0,2000000.0,150.0,81
+Bundesliga,1.FC Union Berlin,Dmytro Bogdanov,250000.0,600000.0,140.0,82
+Ligue 1,RC Strasbourg Alsace,Joaquín Panichelli,7000000.0,16500000.0,135.71,83
+Premier League,Manchester United,Senne Lammens,9000000.0,21000000.0,133.33,84
+Eredivisie,Twente Enschede FC,Daouda Weidmann,300000.0,700000.0,133.33,85
+Premier League,Tottenham Hotspur,Kota Takai,2500000.0,5800000.0,132.0,86
+Ligue 1,FC Toulouse,Emersonn,1400000.0,3200000.0,128.57,87
+Super Lig,Trabzonspor,Felipe Augusto,2200000.0,5000000.0,127.27,88
+Saudi Pro League,Al-Qadsiah FC,Christopher Bonsu Baah,7500000.0,17000000.0,126.67,89
+Brasileiro,Botafogo de Futebol e Regatas,Álvaro Montoro,3500000.0,7900000.0,125.71,90
+Premier League,Everton FC,Adam Aznou,4000000.0,9000000.0,125.0,91
+Ligue 1,Paris FC,Hamari Traoré,2000000.0,4500000.0,125.0,92
+Brasileiro,Santos FC,Gustavo Caballero,600000.0,1300000.0,116.67,93
+Bundesliga,VfB Stuttgart,Badredine Bouanani,7000000.0,15000000.0,114.29,94
+Serie A,ACF Fiorentina,Roberto Piccoli,12000000.0,25000000.0,108.33,95
+Bundesliga,Bayer 04 Leverkusen,Equi Fernández,12000000.0,25000000.0,108.33,96
+Premier League,Burnley FC,Bashir Humphreys,7000000.0,14000000.0,100.0,97
+Serie A,AC Milan,Zachary Athekame,5000000.0,10000000.0,100.0,98
+Eredivisie,Feyenoord Rotterdam,Gonçalo Borges,5000000.0,10000000.0,100.0,99
+Brasileiro,Red Bull Bragantino,Vanderlan,3500000.0,7000000.0,100.0,100
+Saudi Pro League,NEOM SC,Luís Maximiano,3000000.0,6000000.0,100.0,101
+Ligue 1,RC Lens,Robin Risser,1500000.0,3000000.0,100.0,102
+Liga Portugal,FC Famalicão,Léo Realpe,1500000.0,3000000.0,100.0,103
+Brasileiro,Cruzeiro Esporte Clube,Ryan Guilherme,700000.0,1400000.0,100.0,104
+Serie A,US Lecce,Milos Jovic,500000.0,1000000.0,100.0,105
+La Liga,Getafe CF,Davinchi,300000.0,600000.0,100.0,106
+Eredivisie,PSV Eindhoven,Ruben van Bommel,8000000.0,15800000.0,97.5,107
+Premier League,Nottingham Forest,Omari Hutchinson,22000000.0,43400000.0,97.27,108
+La Liga,Real Betis Balompié,Nelson Deossa,6000000.0,11700000.0,95.0,109
+Premier League,Newcastle United,Malick Thiaw,18000000.0,35000000.0,94.44,110
+Ligue 1,Stade Rennais FC,Estéban Lepaul,7000000.0,13500000.0,92.86,111
+Premier League,Burnley FC,Armando Broja,12000000.0,23000000.0,91.67,112
+Eredivisie,NEC Nijmegen,Deveron Fonville,450000.0,850000.0,88.89,113
+Ligue 1,RC Lens,Mattia Fortin,800000.0,1500000.0,87.5,114
+Brasileiro,Sport Club Internacional,Alan Rodríguez,2300000.0,4300000.0,86.96,115
+Eredivisie,Feyenoord Rotterdam,Jordan Bos,2700000.0,5000000.0,85.19,116
+Saudi Pro League,Al-Hilal SFC,Yusuf Akçiçek,12000000.0,22000000.0,83.33,117
+Bundesliga,RB Leipzig,Rômulo,11000000.0,20000000.0,81.82,118
+Premier League,Newcastle United,Yoane Wissa,32000000.0,57700000.0,80.31,119
+Saudi Pro League,Al-Ahli SFC,Matheus Gonçalves,5000000.0,9000000.0,80.0,120
+Serie A,Parma Calcio 1913,Mariano Troilo,4000000.0,7200000.0,80.0,121
+Brasileiro,CR Flamengo,Jorge Carrascal,7000000.0,12500000.0,78.57,122
+Saudi Pro League,Al-Ittihad Club,Mahamadou Doumbia,9000000.0,16000000.0,77.78,123
+Bundesliga,1.FC Köln,Rav van den Berg,4500000.0,8000000.0,77.78,124
+Liga Portugal,SL Benfica,Franjo Ivanović,13000000.0,22800000.0,75.38,125
+Bundesliga,Bayer 04 Leverkusen,Jarell Quansah,20000000.0,35000000.0,75.0,126
+Ligue 1,RC Strasbourg Alsace,Samuel Amo-Ameyaw,4000000.0,7000000.0,75.0,127
+Brasileiro,Sociedade Esportiva Palmeiras,Jefté,4000000.0,7000000.0,75.0,128
+Ligue 1,LOSC Lille,Félix Correia,4000000.0,7000000.0,75.0,129
+Serie A,US Lecce,Matías Pérez,300000.0,525000.0,75.0,130
+Premier League,Liverpool FC,Giovanni Leoni,18000000.0,31000000.0,72.22,131
+Ligue 1,Paris FC,Otávio,10000000.0,17000000.0,70.0,132
+Super Lig,Göztepe,Junior Olaitan,500000.0,850000.0,70.0,133
+Liga Portugal,SL Benfica,Richard Ríos,16000000.0,27000000.0,68.75,134
+Serie A,Atalanta BC,Nikola Krstović,15000000.0,25000000.0,66.67,135
+Liga Portugal,FC Porto,Victor Froholdt,12000000.0,20000000.0,66.67,136
+Ligue 1,FC Toulouse,Santiago Hidalgo,1500000.0,2500000.0,66.67,137
+Premier League,AFC Bournemouth,Ben Doak,14000000.0,23200000.0,65.71,138
+Premier League,Leeds United,Gabriel Gudmundsson,7000000.0,11600000.0,65.71,139
+La Liga,Deportivo Alavés,Lucas Boyé,3500000.0,5800000.0,65.71,140
+Serie A,AS Roma,Jan Ziolkowski,4000000.0,6600000.0,65.0,141
+Ligue 1,LOSC Lille,Hamza Igamane,7000000.0,11500000.0,64.29,142
+Serie A,Parma Calcio 1913,Abdoulaye Ndiaye,4000000.0,6500000.0,62.5,143
+Premier League,Everton FC,Tyler Dibling,25000000.0,40500000.0,62.0,144
+Premier League,West Ham United,Jean-Clair Todibo,25000000.0,40000000.0,60.0,145
+Premier League,Leeds United,Lucas Perri,10000000.0,16000000.0,60.0,146
+La Liga,Villarreal CF,Tani Oluwaseyi,5000000.0,8000000.0,60.0,147
+Bundesliga,Borussia Mönchengladbach,Shuto Machino,5000000.0,8000000.0,60.0,148
+Premier League,Burnley FC,Lesley Ugochukwu,18000000.0,28700000.0,59.44,149
+Serie A,Como 1907,Nicolas Kühn,12000000.0,19000000.0,58.33,150
+Eredivisie,Feyenoord Rotterdam,Gaoussou Diarra,2400000.0,3800000.0,58.33,151
+Premier League,Sunderland AFC,Habib Diarra,20000000.0,31500000.0,57.5,152
+Serie A,AS Roma,Neil El Aynaoui,15000000.0,23500000.0,56.67,153
+Premier League,Wolverhampton Wanderers,Jackson Tchatchoua,8000000.0,12500000.0,56.25,154
+Premier League,Brentford FC,Dango Ouattara,28000000.0,42800000.0,52.86,155
+Saudi Pro League,Al-Nassr FC,Mohamed Simakan,23000000.0,35000000.0,52.17,156
+Saudi Pro League,Al-Qadsiah FC,Mateo Retegui,45000000.0,68250000.0,51.67,157
+Premier League,Burnley FC,Loum Tchaouna,10000000.0,15150000.0,51.5,158
+Ligue 1,Paris Saint-Germain,Ilya Zabarnyi,42000000.0,63000000.0,50.0,159
+La Liga,Real Madrid,Franco Mastantuono,30000000.0,45000000.0,50.0,160
+Premier League,Everton FC,Thierno Barry,20000000.0,30000000.0,50.0,161
+Saudi Pro League,Al-Nassr FC,João Félix,20000000.0,30000000.0,50.0,162
+Super Lig,Fenerbahce,Dorgeles Nene,12000000.0,18000000.0,50.0,163
+Liga Portugal,FC Porto,Alberto Costa,10000000.0,15000000.0,50.0,164
+Liga Portugal,Sporting CP,Georgios Vagiannidis,8000000.0,12000000.0,50.0,165
+Premier League,Brighton & Hove Albion,Tom Watson,8000000.0,12000000.0,50.0,166
+La Liga,Villarreal CF,Tajon Buchanan,6000000.0,9000000.0,50.0,167
+Serie A,Bologna FC 1909,Nadir Zortea,5000000.0,7500000.0,50.0,168
+Ligue 1,RC Strasbourg Alsace,Maxi Oyedele,4000000.0,6000000.0,50.0,169
+Serie A,Cagliari Calcio,Gianluca Gaetano,4000000.0,6000000.0,50.0,170
+Liga Portugal,FC Porto,Dominik Prpić,3000000.0,4500000.0,50.0,171
+Ligue 1,AS Monaco,Lukas Hradecky,2000000.0,3000000.0,50.0,172
+Serie A,US Lecce,Álex Sala,1000000.0,1500000.0,50.0,173
+Saudi Pro League,Al-Ettifaq FC,Mohau Nkota,800000.0,1200000.0,50.0,174
+Saudi Pro League,Al-Taawoun FC,Renne Rivas,400000.0,600000.0,50.0,175
+Eredivisie,AZ Alkmaar,Isak Jensen,2700000.0,4000000.0,48.15,176
+Eredivisie,FC Groningen,Tyrique Mercera,450000.0,663000.0,47.33,177
+Brasileiro,Fluminense Football Club,Santiago Moreno,3500000.0,5150000.0,47.14,178
+Liga Portugal,Sporting CP,Fotis Ioannidis,15000000.0,22000000.0,46.67,179
+Eredivisie,Ajax Amsterdam,Raúl Moro,7500000.0,11000000.0,46.67,180
+Premier League,Newcastle United,Anthony Elanga,42000000.0,61400000.0,46.19,181
+Premier League,Leeds United,Noah Okafor,13000000.0,19000000.0,46.15,182
+Saudi Pro League,Al-Ittihad Club,Roger Fernandes,22000000.0,32000000.0,45.45,183
+Ligue 1,RC Strasbourg Alsace,Mathis Amougou,10000000.0,14500000.0,45.0,184
+Premier League,Sunderland AFC,Omar Alderete,8000000.0,11600000.0,45.0,185
+Premier League,AFC Bournemouth,Djordje Petrovic,20000000.0,28900000.0,44.5,186
+Premier League,Wolverhampton Wanderers,Tolu Arokodare,18000000.0,26000000.0,44.44,187
+Premier League,Everton FC,Kiernan Dewsbury-Hall,20000000.0,28650000.0,43.25,188
+La Liga,Real Madrid,Álvaro Carreras,35000000.0,50000000.0,42.86,189
+Premier League,Leeds United,Anton Stach,14000000.0,20000000.0,42.86,190
+Ligue 1,Olympique Lyon,Tyler Morton,7000000.0,10000000.0,42.86,191
+Serie A,Pisa Sporting Club,Henrik Meister,2800000.0,4000000.0,42.86,192
+Serie A,Como 1907,Fellipe Jack,1400000.0,2000000.0,42.86,193
+Eredivisie,Go Ahead Eagles,Richonell Margaret,700000.0,1000000.0,42.86,194
+Premier League,Manchester City,James Trafford,22000000.0,31200000.0,41.82,195
+Premier League,Tottenham Hotspur,Mohammed Kudus,45000000.0,63800000.0,41.78,196
+Premier League,West Ham United,Soungoutou Magassa,12000000.0,17000000.0,41.67,197
+Premier League,Sunderland AFC,Noah Sadiki,12000000.0,17000000.0,41.67,198
+Serie A,Bologna FC 1909,Jonathan Rowe,12000000.0,17000000.0,41.67,199
+Serie A,Atalanta BC,Nicola Zalewski,12000000.0,17000000.0,41.67,200
+Premier League,Newcastle United,Jacob Ramsey,32000000.0,45150000.0,41.09,201
+La Liga,Villarreal CF,Georges Mikautadze,22000000.0,31000000.0,40.91,202
+Premier League,Arsenal FC,Noni Madueke,40000000.0,56000000.0,40.0,203
+Premier League,Nottingham Forest,Dilane Bakwa,25000000.0,35000000.0,40.0,204
+Serie A,Hellas Verona,Cheikh Niasse,2500000.0,3500000.0,40.0,205
+Liga Portugal,Sporting CP,Alisson Santos,1500000.0,2100000.0,40.0,206
+Liga Portugal,GD Estoril Praia,Nodar Lominadze,500000.0,700000.0,40.0,207
+Premier League,West Ham United,Mads Hermansen,15000000.0,20800000.0,38.67,208
+Bundesliga,Borussia Dortmund,Jobe Bellingham,22000000.0,30500000.0,38.64,209
+Serie A,US Lecce,Jamil Siebert,4000000.0,5500000.0,37.5,210
+Brasileiro,Sociedade Esportiva Palmeiras,Carlos Miguel,4000000.0,5500000.0,37.5,211
+Premier League,Manchester United,Bryan Mbeumo,55000000.0,75000000.0,36.36,212
+Premier League,Nottingham Forest,Arnaud Kalimuendo,22000000.0,30000000.0,36.36,213
+Bundesliga,Bayer 04 Leverkusen,Abdoulaye Faye,2000000.0,2700000.0,35.0,214
+Bundesliga,SC Freiburg,Igor Matanovic,5000000.0,6700000.0,34.0,215
+Ligue 1,Paris Saint-Germain,Lucas Chevalier,30000000.0,40000000.0,33.33,216
+Saudi Pro League,NEOM SC,Nathan Zézé,15000000.0,20000000.0,33.33,217
+Serie A,Inter Milan,Andy Diouf,15000000.0,20000000.0,33.33,218
+Bundesliga,VfB Stuttgart,Lorenz Assignon,9000000.0,12000000.0,33.33,219
+Premier League,Wolverhampton Wanderers,David Møller Wolfe,9000000.0,12000000.0,33.33,220
+Ligue 1,RC Lens,Mamadou Sangaré,6000000.0,8000000.0,33.33,221
+Saudi Pro League,Al-Qadsiah FC,Julian Weigl,6000000.0,8000000.0,33.33,222
+Ligue 1,OGC Nice,Kevin Carlos,4500000.0,6000000.0,33.33,223
+Bundesliga,Eintracht Frankfurt,Michael Zetterer,4500000.0,6000000.0,33.33,224
+Serie A,SS Lazio,Luca Pellegrini,3000000.0,4000000.0,33.33,225
+La Liga,Atlético de Madrid,Santiago Mouriño,3000000.0,4000000.0,33.33,226
+Serie A,Como 1907,Luca Mazzitelli,1500000.0,2000000.0,33.33,227
+Liga Portugal,Vitória Guimarães SC,Fabio Blanco,900000.0,1200000.0,33.33,228
+Ligue 1,RC Strasbourg Alsace,Andrew Omobamidele,8000000.0,10500000.0,31.25,229
+Serie A,Atalanta BC,Kamaldeen Sulemana,13000000.0,17000000.0,30.77,230
+Eredivisie,PSV Eindhoven,Yarek Gasiorowski,7500000.0,9800000.0,30.67,231
+Saudi Pro League,Al-Qadsiah FC,Gabriel Carvalho,12000000.0,15600000.0,30.0,232
+Brasileiro,Clube Atlético Mineiro,Alexsander,5000000.0,6500000.0,30.0,233
+Ligue 1,RC Lens,Jeremy Agbonifo,5000000.0,6500000.0,30.0,234
+Liga Portugal,SL Benfica,Samuel Dahl,7000000.0,9000000.0,28.57,235
+La Liga,Rayo Vallecano,Alemão,3500000.0,4500000.0,28.57,236
+Premier League,Sunderland AFC,Enzo Le Fée,18000000.0,23000000.0,27.78,237
+Ligue 1,Olympique Marseille,Nayef Aguerd,18000000.0,23000000.0,27.78,238
+Premier League,Burnley FC,Zian Flemming,6500000.0,8300000.000000001,27.69,239
+Premier League,Nottingham Forest,James McAtee,20000000.0,25500000.0,27.5,240
+Premier League,Chelsea FC,João Pedro,50000000.0,63700000.0,27.4,241
+Premier League,Liverpool FC,Hugo Ekitiké,75000000.0,95000000.0,26.67,242
+Premier League,Nottingham Forest,Igor Jesus,15000000.0,19000000.0,26.67,243
+Premier League,Chelsea FC,Jorrel Hato,35000000.0,44180000.0,26.23,244
+Premier League,Arsenal FC,Eberechi Eze,55000000.0,69300000.0,26.0,245
+Serie A,Juventus FC,João Mário,10000000.0,12600000.0,26.0,246
+Premier League,AFC Bournemouth,Bafodé Diakité,28000000.0,35000000.0,25.0,247
+Serie A,AS Roma,Wesley,20000000.0,25000000.0,25.0,248
+Premier League,Brighton & Hove Albion,Maxim De Cuyper,16000000.0,20000000.0,25.0,249
+Premier League,Sunderland AFC,Granit Xhaka,12000000.0,15000000.0,25.0,250
+Serie A,Atalanta BC,Marco Brescianini,8000000.0,10000000.0,25.0,251
+Bundesliga,1.FC Union Berlin,Andrej Ilic,4000000.0,5000000.0,25.0,252
+Serie A,US Lecce,Nikola Stulic,4000000.0,5000000.0,25.0,253
+Serie A,Como 1907,Ignace Van der Brempt,4000000.0,5000000.0,25.0,254
+Super Lig,Göztepe,Janderson,1200000.0,1500000.0,25.0,255
+Eredivisie,Twente Enschede FC,Stav Lemkin,1200000.0,1500000.0,25.0,256
+Super Lig,Besiktas JK,Gökhan Sazdağı,1200000.0,1500000.0,25.0,257
+Liga Portugal,FC Arouca,Dylan Nandín,800000.0,1000000.0,25.0,258
+Brasileiro,Fortaleza Esporte Clube,Pablo Roberto,800000.0,1000000.0,25.0,259
+Premier League,Manchester United,Matheus Cunha,60000000.0,74200000.0,23.67,260
+Super Lig,Galatasaray,Wilfried Singo,25000000.0,30770000.0,23.08,261
+Bundesliga,RB Leipzig,Ezechiel Banzuzi,13000000.0,16000000.0,23.08,262
+Premier League,West Ham United,El Hadji Malick Diouf,18000000.0,22000000.0,22.22,263
+Serie A,Parma Calcio 1913,Christian Ordóñez,7000000.0,8500000.0,21.43,264
+Premier League,Liverpool FC,Alexander Isak,120000000.0,145000000.0,20.83,265
+Ligue 1,Olympique Marseille,Jonathan Rowe,12000000.0,14500000.0,20.83,266
+Premier League,Nottingham Forest,Dan Ndoye,35000000.0,42000000.0,20.0,267
+Premier League,Aston Villa,Evann Guessand,25000000.0,30000000.0,20.0,268
+Ligue 1,Stade Rennais FC,Lilian Brassier,10000000.0,12000000.0,20.0,269
+Brasileiro,Botafogo de Futebol e Regatas,Arthur Cabral,10000000.0,12000000.0,20.0,270
+Saudi Pro League,NEOM SC,Saïd Benrahma,10000000.0,12000000.0,20.0,271
+Premier League,Sunderland AFC,Nordi Mukiele,10000000.0,12000000.0,20.0,272
+Serie A,Parma Calcio 1913,Matija Frigan,7500000.0,9000000.0,20.0,273
+Serie A,SSC Napoli,Luca Marianucci,7500000.0,9000000.0,20.0,274
+Ligue 1,RC Lens,Florian Thauvin,5000000.0,6000000.0,20.0,275
+Brasileiro,Sociedade Esportiva Palmeiras,Khellven,5000000.0,6000000.0,20.0,276
+La Liga,Valencia CF,José Copete,3000000.0,3600000.0,20.0,277
+Ligue 1,FC Metz,Terry Yegbe,2500000.0,3000000.0,20.0,278
+Serie A,US Sassuolo,Fali Candé,2500000.0,3000000.0,20.0,279
+Ligue 1,LOSC Lille,Calvin Verdonk,2500000.0,3000000.0,20.0,280
+Ligue 1,AJ Auxerre,Francisco Sierralta,1500000.0,1800000.0,20.0,281
+Saudi Pro League,Al-Hilal SFC,Darwin Núñez,45000000.0,53000000.0,17.78,282
+Serie A,Juventus FC,Nico González,24000000.0,28100000.0,17.08,283
+Premier League,Arsenal FC,Martín Zubimendi,60000000.0,70000000.0,16.67,284
+Premier League,AFC Bournemouth,Amine Adli,18000000.0,21000000.0,16.67,285
+Bundesliga,FC Augsburg,Fabian Rieder,6000000.0,7000000.0,16.67,286
+Serie A,Torino FC,Marcus Pedersen,3000000.0,3500000.0,16.67,287
+La Liga,RCD Mallorca,Jan Virgili,3000000.0,3500000.0,16.67,288
+Bundesliga,FC St. Pauli,Joel Chima Fujita,3000000.0,3500000.0,16.67,289
+Ligue 1,FC Toulouse,Abu Francis,1800000.0,2100000.0,16.67,290
+Serie A,US Cremonese,Andrea Fulignati,1200000.0,1400000.0,16.67,291
+Liga Portugal,Vitória Guimarães SC,Juan Castillo,600000.0,700000.0,16.67,292
+Serie A,Inter Milan,Ange-Yoan Bonny,20000000.0,23000000.0,15.0,293
+Premier League,Everton FC,Mark Travers,4000000.0,4600000.0,15.0,294
+Bundesliga,Bayer 04 Leverkusen,Eliesse Ben Seghir,28000000.0,32000000.0,14.29,295
+Serie A,Juventus FC,Francisco Conceição,28000000.0,32000000.0,14.29,296
+Super Lig,Fenerbahce,Archie Brown,7000000.0,8000000.0,14.29,297
+Super Lig,Galatasaray,Ismail Jakobs,7000000.0,8000000.0,14.29,298
+Serie A,Parma Calcio 1913,Oliver Sørensen,7000000.0,8000000.0,14.29,299
+Brasileiro,Cruzeiro Esporte Clube,Keny Arroyo,7000000.0,8000000.0,14.29,300
+Brasileiro,Santos FC,Alexis Duarte,3000000.0,3400000.0,13.33,301
+Serie A,AC Milan,Ardon Jashari,32000000.0,36000000.0,12.5,302
+Bundesliga,Borussia Dortmund,Fábio Silva,20000000.0,22500000.0,12.5,303
+Ligue 1,RC Lens,Morgan Guilavogui,4000000.0,4500000.0,12.5,304
+Liga Portugal,CD Santa Clara,Wendel,1200000.0,1350000.0,12.5,305
+Saudi Pro League,Al-Kholood Club,Ramiro Enrique,2500000.0,2810000.0,12.4,306
+Premier League,Chelsea FC,Jamie Gittens,50000000.0,56000000.0,12.0,307
+Premier League,Chelsea FC,Dário Essugo,20000000.0,22270000.0,11.35,308
+Premier League,Brentford FC,Antoni Milambo,18000000.0,20000000.0,11.11,309
+Bundesliga,Borussia Dortmund,Carney Chukwuemeka,18000000.0,20000000.0,11.11,310
+Brasileiro,Botafogo de Futebol e Regatas,Kaio,1800000.0,2000000.0,11.11,311
+Serie A,SSC Napoli,Sam Beukema,28000000.0,31000000.0,10.71,312
+Premier League,Manchester City,Tijjani Reijnders,50000000.0,55000000.0,10.0,313
+Bundesliga,Bayer 04 Leverkusen,Mark Flekken,10000000.0,11000000.0,10.0,314
+Premier League,Brighton & Hove Albion,Diego Coppola,10000000.0,11000000.0,10.0,315
+Bundesliga,SC Freiburg,Philipp Treu,5000000.0,5500000.0,10.0,316
+Liga Portugal,Sporting CP,Giorgi Kochorashvili,5000000.0,5500000.0,10.0,317
+Super Lig,Basaksehir FK,Bertuğ Yıldırım,2000000.0,2200000.0,10.0,318
+Bundesliga,Bayer 04 Leverkusen,Malik Tillman,32000000.0,35000000.0,9.38,319
+Premier League,Manchester United,Benjamin Sesko,70000000.0,76500000.0,9.29,320
+Ligue 1,Stade Rennais FC,Breel Embolo,12000000.0,13000000.0,8.33,321
+Premier League,Nottingham Forest,Nicolò Savona,12000000.0,13000000.0,8.33,322
+Bundesliga,VfB Stuttgart,Tiago Tomás,12000000.0,13000000.0,8.33,323
+Serie A,Como 1907,Máximo Perrone,12000000.0,13000000.0,8.33,324
+Serie A,Bologna FC 1909,Nicolò Casale,6000000.0,6500000.0,8.33,325
+Eredivisie,NEC Nijmegen,Noé Lebreton,1200000.0,1300000.0,8.33,326
+Serie A,Juventus FC,Lloyd Kelly,16000000.0,17200000.0,7.5,327
+Super Lig,Galatasaray,Victor Osimhen,70000000.0,75000000.0,7.14,328
+Premier League,Everton FC,Carlos Alcaraz,14000000.0,15000000.0,7.14,329
+Eredivisie,FC Groningen,Oskar Zawada,700000.0,750000.0,7.14,330
+Serie A,US Sassuolo,Jay Idzes,7500000.0,8000000.0,6.67,331
+La Liga,Atlético de Madrid,Matteo Ruggeri,16000000.0,17000000.0,6.25,332
+Bundesliga,SC Freiburg,Cyriaque Irié,8000000.0,8500000.0,6.25,333
+Serie A,AC Milan,Christopher Nkunku,35000000.0,37000000.0,5.71,334
+Premier League,Burnley FC,Jaidon Anthony,9000000.0,9500000.0,5.56,335
+Premier League,Arsenal FC,Christian Nørgaard,11000000.0,11600000.0,5.45,336
+Premier League,Manchester City,Rayan Aït-Nouri,35000000.0,36800000.0,5.14,337
+Bundesliga,Bayer 04 Leverkusen,Christian Kofane,5000000.0,5250000.0,5.0,338
+Saudi Pro League,Al-Hilal SFC,Ali Lajami,900000.0,941000.0,4.56,339
+Premier League,Liverpool FC,Milos Kerkez,45000000.0,46900000.0,4.22,340
+La Liga,Real Madrid,Dean Huijsen,60000000.0,62500000.0,4.17,341
+Brasileiro,Sociedade Esportiva Palmeiras,Ramón Sosa,12000000.0,12500000.0,4.17,342
+La Liga,RCD Espanyol Barcelona,Roberto Fernández,6000000.0,6200000.0,3.33,343
+Serie A,US Cremonese,Jari Vandeputte,3200000.0,3300000.0,3.13,344
+Premier League,Chelsea FC,Alejandro Garnacho,45000000.0,46200000.0,2.67,345
+Liga Portugal,FC Porto,Nehuén Pérez,13000000.0,13300000.0,2.31,346
+Bundesliga,Bayern Munich,Luis Díaz,70000000.0,70000000.0,0.0,347
+Premier League,Tottenham Hotspur,Mathys Tel,35000000.0,35000000.0,0.0,348
+Premier League,Crystal Palace,Yéremy Pino,30000000.0,30000000.0,0.0,349
+Premier League,Tottenham Hotspur,Kevin Danso,25000000.0,25000000.0,0.0,350
+Serie A,SSC Napoli,Noa Lang,25000000.0,25000000.0,0.0,351
+La Liga,FC Barcelona,Joan García,25000000.0,25000000.0,0.0,352
+Bundesliga,Bayer 04 Leverkusen,Loïc Badé,25000000.0,25000000.0,0.0,353
+Bundesliga,RB Leipzig,Conrad Harder,24000000.0,24000000.0,0.0,354
+Brasileiro,CR Flamengo,Samuel Lino,22000000.0,22000000.0,0.0,355
+Liga Portugal,SL Benfica,Dodi Lukébakio,20000000.0,20000000.0,0.0,356
+Bundesliga,Borussia Dortmund,Yan Couto,20000000.0,20000000.0,0.0,357
+Premier League,Leeds United,Jaka Bijol,18000000.0,18000000.0,0.0,358
+Premier League,Wolverhampton Wanderers,Jhon Arias,17000000.0,17000000.0,0.0,359
+Bundesliga,VfL Wolfsburg,Vini Souza,15000000.0,15000000.0,0.0,360
+Premier League,Manchester City,Sverre Nypan,15000000.0,15000000.0,0.0,361
+La Liga,Girona FC,Vladyslav Vanat,15000000.0,15000000.0,0.0,362
+Serie A,Inter Milan,Petar Sučić,14000000.0,14000000.0,0.0,363
+La Liga,Athletic Bilbao,Jesús Areso,12000000.0,12000000.0,0.0,364
+Liga Portugal,SL Benfica,Amar Dedić,12000000.0,12000000.0,0.0,365
+Serie A,Cagliari Calcio,Roberto Piccoli,12000000.0,12000000.0,0.0,366
+Bundesliga,Bayer 04 Leverkusen,Ibrahim Maza,12000000.0,12000000.0,0.0,367
+Serie A,Bologna FC 1909,Martin Vitík,11000000.0,11000000.0,0.0,368
+Premier League,Chelsea FC,Kendry Páez,10000000.0,10000000.0,0.0,369
+Serie A,ACF Fiorentina,Jacopo Fazzini,10000000.0,10000000.0,0.0,370
+Bundesliga,SC Freiburg,Yuito Suzuki,10000000.0,10000000.0,0.0,371
+La Liga,Real Betis Balompié,Natan,9000000.0,9000000.0,0.0,372
+Brasileiro,CR Flamengo,Emerson Royal,9000000.0,9000000.0,0.0,373
+Premier League,Nottingham Forest,John Victor,8000000.0,8000000.0,0.0,374
+Ligue 1,RC Lens,Samson Baidoo,8000000.0,8000000.0,0.0,375
+Serie A,Udinese Calcio,Arthur Atta,8000000.0,8000000.0,0.0,376
+Super Lig,Galatasaray,Przemyslaw Frankowski,7000000.0,7000000.0,0.0,377
+Ligue 1,OGC Nice,Charles Vanhoutte,6000000.0,6000000.0,0.0,378
+Super Lig,Besiktas JK,Taylan Bulut,6000000.0,6000000.0,0.0,379
+La Liga,Celta de Vigo,Ilaix Moriba,6000000.0,6000000.0,0.0,380
+Eredivisie,Feyenoord Rotterdam,Casper Tengstedt,6000000.0,6000000.0,0.0,381
+Premier League,Leeds United,Sebastiaan Bornauw,6000000.0,6000000.0,0.0,382
+Serie A,Como 1907,Álex Valle,6000000.0,6000000.0,0.0,383
+Super Lig,Trabzonspor,Kazeem Olaigbe,5000000.0,5000000.0,0.0,384
+Ligue 1,RC Lens,Martín Satriano,5000000.0,5000000.0,0.0,385
+La Liga,RCD Espanyol Barcelona,Urko González de Zárate,5000000.0,5000000.0,0.0,386
+Serie A,Pisa Sporting Club,İsak Vural,4500000.0,4500000.0,0.0,387
+Premier League,Manchester United,Diego León,4000000.0,4000000.0,0.0,388
+Bundesliga,FC St. Pauli,Martijn Kaars,4000000.0,4000000.0,0.0,389
+Bundesliga,RB Leipzig,Max Finkgräfe,4000000.0,4000000.0,0.0,390
+Bundesliga,1.FC Union Berlin,Ilyas Ansah,4000000.0,4000000.0,0.0,391
+Bundesliga,1.FC Union Berlin,Woo-yeong Jeong,4000000.0,4000000.0,0.0,392
+Premier League,Burnley FC,Max Weiß,4000000.0,4000000.0,0.0,393
+Ligue 1,RC Lens,Matthieu Udol,3500000.0,3500000.0,0.0,394
+Bundesliga,1.FC Köln,Sebastian Sebulonsen,2500000.0,2500000.0,0.0,395
+La Liga,Real Oviedo,Luka Ilic,2000000.0,2000000.0,0.0,396
+Liga Portugal,FC Arouca,Hyun-ju Lee,1500000.0,1500000.0,0.0,397
+Eredivisie,Heracles Almelo,Mimeirhel Benita,1000000.0,1000000.0,0.0,398
+Serie A,Atalanta BC,Marco Sportiello,1000000.0,1000000.0,0.0,399
+La Liga,Villarreal CF,Renato Veiga,25000000.0,24500000.0,-2.0,400
+Premier League,Brentford FC,Michael Kayode,18000000.0,17500000.0,-2.78,401
+Ligue 1,Paris FC,Pierre Lees-Melou,6000000.0,5800000.0,-3.33,402
+Eredivisie,Feyenoord Rotterdam,Luciano Valente,7000000.0,6750000.0,-3.57,403
+La Liga,Atlético de Madrid,Johnny Cardoso,25000000.0,24000000.0,-4.0,404
+Super Lig,Besiktas JK,João Mário,2100000.0,2000000.0,-4.76,405
+Liga Portugal,FC Porto,Borja Sainz,14000000.0,13300000.0,-5.0,406
+Serie A,Cagliari Calcio,Michel Adopo,4000000.0,3800000.0,-5.0,407
+Super Lig,Trabzonspor,Paul Onuachu,6000000.0,5670000.0,-5.5,408
+Super Lig,Fenerbahce,Kerem Aktürkoğlu,24000000.0,22500000.0,-6.25,409
+Ligue 1,RC Strasbourg Alsace,Soumaïla Coulibaly,8000000.0,7500000.0,-6.25,410
+Super Lig,Basaksehir FK,Abbosbek Fayzullaev,8000000.0,7500000.0,-6.25,411
+Bundesliga,RB Leipzig,Andrija Maksimovic,15000000.0,14000000.0,-6.67,412
+Premier League,Tottenham Hotspur,Xavi Simons,70000000.0,65000000.0,-7.14,413
+Premier League,Nottingham Forest,Jair Cunha,13000000.0,12000000.0,-7.69,414
+Serie A,Inter Milan,Luis Henrique,25000000.0,23000000.0,-8.0,415
+Premier League,Tottenham Hotspur,Luka Vuskovic,12000000.0,11000000.0,-8.33,416
+Premier League,Sunderland AFC,Brian Brobbey,22000000.0,20000000.0,-9.09,417
+Serie A,AC Milan,Koni De Winter,22000000.0,20000000.0,-9.09,418
+Bundesliga,RB Leipzig,Arthur Vermeeren,22000000.0,20000000.0,-9.09,419
+Brasileiro,Santos FC,Adonis Frías,3800000.0,3450000.0,-9.21,420
+Premier League,Wolverhampton Wanderers,Jørgen Strand Larsen,30000000.0,27000000.0,-10.0,421
+Serie A,SSC Napoli,Miguel Gutiérrez,20000000.0,18000000.0,-10.0,422
+Premier League,AFC Bournemouth,Adrien Truffert,15000000.0,13500000.0,-10.0,423
+Ligue 1,Paris FC,Willem Geubbels,10000000.0,9000000.0,-10.0,424
+Eredivisie,PSV Eindhoven,Alassane Pléa,5000000.0,4500000.0,-10.0,425
+Liga Portugal,Vitória Guimarães SC,Matija Mitrović,1000000.0,900000.0,-10.0,426
+Premier League,Liverpool FC,Florian Wirtz,140000000.0,125000000.0,-10.71,427
+Serie A,US Cremonese,Antonio Sanabria,2800000.0,2500000.0,-10.71,428
+Ligue 1,Stade Rennais FC,Mahdi Camara,9000000.0,8000000.0,-11.11,429
+Serie A,Cagliari Calcio,Elia Caprile,9000000.0,8000000.0,-11.11,430
+Eredivisie,Feyenoord Rotterdam,Tsuyoshi Watanabe,9000000.0,8000000.0,-11.11,431
+Eredivisie,AZ Alkmaar,Matej Sin,4500000.0,4000000.0,-11.11,432
+Bundesliga,TSG 1899 Hoffenheim,Wouter Burger,4500000.0,4000000.0,-11.11,433
+Premier League,Chelsea FC,Liam Delap,40000000.0,35500000.0,-11.25,434
+La Liga,Atlético de Madrid,Giacomo Raspadori,25000000.0,22000000.0,-12.0,435
+Premier League,Arsenal FC,Viktor Gyökeres,75000000.0,65800000.0,-12.27,436
+Eredivisie,Ajax Amsterdam,Ko Itakura,12000000.0,10500000.0,-12.5,437
+Serie A,ACF Fiorentina,Robin Gosens,8000000.0,7000000.0,-12.5,438
+Ligue 1,FC Toulouse,Mario Sauer,2000000.0,1750000.0,-12.5,439
+Premier League,Sunderland AFC,Simon Adingra,28000000.0,24400000.0,-12.86,440
+Serie A,Atalanta BC,Lazar Samardžić,17000000.0,14800000.0,-12.94,441
+La Liga,Atlético de Madrid,Dávid Hancko,30000000.0,26000000.0,-13.33,442
+Ligue 1,Stade Rennais FC,Quentin Merlin,15000000.0,13000000.0,-13.33,443
+Ligue 1,Olympique Marseille,Igor Paixão,35000000.0,30000000.0,-14.29,444
+Saudi Pro League,Al-Ahli SFC,Enzo Millot,35000000.0,30000000.0,-14.29,445
+Ligue 1,LOSC Lille,Marius Broholm,7000000.0,6000000.0,-14.29,446
+Eredivisie,Twente Enschede FC,Sondre Ørjasæter,7000000.0,6000000.0,-14.29,447
+Ligue 1,FC Metz,Jonathan Fischer,3500000.0,3000000.0,-14.29,448
+Eredivisie,PSV Eindhoven,Nick Olij,3500000.0,3000000.0,-14.29,449
+La Liga,Atlético de Madrid,Juan Musso,3500000.0,3000000.0,-14.29,450
+Ligue 1,LOSC Lille,Nathan Ngoy,3500000.0,3000000.0,-14.29,451
+Liga Portugal,SC Braga,Gustaf Lagerbielke,3000000.0,2570000.0,-14.33,452
+Eredivisie,PSV Eindhoven,Dennis Man,10000000.0,8500000.0,-15.0,453
+Eredivisie,Twente Enschede FC,Robin Pröpper,2000000.0,1700000.0,-15.0,454
+Bundesliga,Eintracht Frankfurt,Ritsu Doan,25000000.0,21000000.0,-16.0,455
+La Liga,Atlético de Madrid,Thiago Almada,25000000.0,21000000.0,-16.0,456
+Saudi Pro League,Al-Nassr FC,Kingsley Coman,30000000.0,25000000.0,-16.67,457
+Eredivisie,PSV Eindhoven,Paul Wanner,18000000.0,15000000.0,-16.67,458
+Liga Portugal,FC Porto,Gabri Veiga,18000000.0,15000000.0,-16.67,459
+Bundesliga,1.FSV Mainz 05,Benedict Hollerbach,12000000.0,10000000.0,-16.67,460
+Premier League,Burnley FC,Marcus Edwards,12000000.0,10000000.0,-16.67,461
+Ligue 1,RC Strasbourg Alsace,Valentín Barco,12000000.0,10000000.0,-16.67,462
+Liga Portugal,FC Porto,Jan Bednarek,9000000.0,7500000.0,-16.67,463
+Serie A,Udinese Calcio,Adam Buksa,6000000.0,5000000.0,-16.67,464
+La Liga,RCD Mallorca,Pablo Torre,6000000.0,5000000.0,-16.67,465
+Serie A,US Cremonese,Federico Baschirotto,3600000.0,3000000.0,-16.67,466
+La Liga,Villarreal CF,Arnau Tenas,3000000.0,2500000.0,-16.67,467
+Ligue 1,AJ Auxerre,Marvin Senaya,1800000.0,1500000.0,-16.67,468
+Serie A,Udinese Calcio,Alessandro Nunziante,1800000.0,1500000.0,-16.67,469
+Ligue 1,FC Lorient,Noah Cadiou,1200000.0,1000000.0,-16.67,470
+Super Lig,Besiktas JK,Rıdvan Yılmaz,3500000.0,2900000.0,-17.14,471
+Brasileiro,Botafogo de Futebol e Regatas,Danilo,28000000.0,23000000.0,-17.86,472
+Serie A,Como 1907,Martin Baturina,22000000.0,18000000.0,-18.18,473
+Premier League,Manchester City,Rayan Cherki,45000000.0,36500000.0,-18.89,474
+Premier League,Liverpool FC,Jeremie Frimpong,50000000.0,40000000.0,-20.0,475
+Serie A,Atalanta BC,Odilon Kossounou,25000000.0,20000000.0,-20.0,476
+Bundesliga,TSG 1899 Hoffenheim,Leon Avdullahu,10000000.0,8000000.0,-20.0,477
+Bundesliga,1.FC Union Berlin,Derrick Köhn,5000000.0,4000000.0,-20.0,478
+Super Lig,Samsunspor,Cherif Ndiaye,5000000.0,4000000.0,-20.0,479
+Serie A,Torino FC,Franco Israel,5000000.0,4000000.0,-20.0,480
+Premier League,Burnley FC,Jacob Bruun Larsen,5000000.0,4000000.0,-20.0,481
+Super Lig,Trabzonspor,Benjamin Bouchouari,5000000.0,4000000.0,-20.0,482
+Bundesliga,Hamburger SV,Nicolai Remberg,3000000.0,2400000.0,-20.0,483
+Serie A,Hellas Verona,Rafik Belghali,2500000.0,2000000.0,-20.0,484
+Serie A,Hellas Verona,Antoine Bernede,2500000.0,2000000.0,-20.0,485
+Brasileiro,Fortaleza Esporte Clube,José Herrera,2500000.0,2000000.0,-20.0,486
+Serie A,US Cremonese,Giuseppe Pezzella,2500000.0,2000000.0,-20.0,487
+La Liga,Elche CF,Álvaro Rodríguez,2500000.0,2000000.0,-20.0,488
+Serie A,Hellas Verona,Grigoris Kastanos,1500000.0,1200000.0,-20.0,489
+Ligue 1,FC Lorient,Arsène Kouassi,1500000.0,1200000.0,-20.0,490
+Super Lig,Basaksehir FK,Doğan Alemdar,1500000.0,1200000.0,-20.0,491
+Liga Portugal,FC Arouca,Brian Mansilla,1000000.0,800000.0,-20.0,492
+Serie A,Juventus FC,Michele Di Gregorio,18000000.0,14300000.0,-20.56,493
+Bundesliga,1.FC Köln,Ísak Jóhannesson,7000000.0,5500000.0,-21.43,494
+Eredivisie,Ajax Amsterdam,Kasper Dolberg,13000000.0,10000000.0,-23.08,495
+Serie A,AC Milan,Samuele Ricci,30000000.0,23000000.0,-23.33,496
+La Liga,Atlético de Madrid,Álex Baena,55000000.0,42000000.0,-23.64,497
+Premier League,Chelsea FC,Estêvão,60000000.0,45000000.0,-25.0,498
+Premier League,Manchester City,Gianluigi Donnarumma,40000000.0,30000000.0,-25.0,499
+Serie A,Como 1907,Jesús Rodríguez,30000000.0,22500000.0,-25.0,500
+Saudi Pro League,NEOM SC,Marcin Bulka,20000000.0,15000000.0,-25.0,501
+Serie A,ACF Fiorentina,Nicolò Fagioli,18000000.0,13500000.0,-25.0,502
+Ligue 1,Olympique Lyon,Pavel Sulc,10000000.0,7500000.0,-25.0,503
+Premier League,Nottingham Forest,Cuiabano,8000000.0,6000000.0,-25.0,504
+Super Lig,Besiktas JK,Vaclav Cerny,8000000.0,6000000.0,-25.0,505
+Bundesliga,VfL Wolfsburg,Aaron Zehnter,6000000.0,4500000.0,-25.0,506
+Bundesliga,Borussia Mönchengladbach,Jens Castrop,6000000.0,4500000.0,-25.0,507
+Ligue 1,LOSC Lille,Berke Özer,6000000.0,4500000.0,-25.0,508
+Saudi Pro League,Al-Shabab FC,Vincent Sierro,4000000.0,3000000.0,-25.0,509
+Bundesliga,FC St. Pauli,Morgan Guilavogui,4000000.0,3000000.0,-25.0,510
+Premier League,Brentford FC,Caoimhín Kelleher,20000000.0,14800000.0,-26.0,511
+Eredivisie,Ajax Amsterdam,Oscar Gloukh,20000000.0,14750000.0,-26.25,512
+La Liga,Real Sociedad,Yangel Herrera,15000000.0,11000000.0,-26.67,513
+Serie A,ACF Fiorentina,Albert Gudmundsson,18000000.0,13000000.0,-27.78,514
+Premier League,Leeds United,James Justin,13000000.0,9300000.0,-28.46,515
+Saudi Pro League,Al-Hilal SFC,Theo Hernández,35000000.0,25000000.0,-28.57,516
+Premier League,Burnley FC,Quilindschy Hartman,14000000.0,10000000.0,-28.57,517
+Bundesliga,SV Werder Bremen,Samuel Mbangula,14000000.0,10000000.0,-28.57,518
+Super Lig,Besiktas JK,Felix Uduokhai,7000000.0,5000000.0,-28.57,519
+Bundesliga,Hamburger SV,Rayan Philippe,3500000.0,2500000.0,-28.57,520
+Super Lig,Fenerbahce,Sofyan Amrabat,17000000.0,12000000.0,-29.41,521
+Saudi Pro League,Al-Najma SC,Bilal Boutobba,1700000.0,1200000.0,-29.41,522
+Eredivisie,Sparta Rotterdam,Lance Duijvestijn,850000.0,600000.0,-29.41,523
+Premier League,Chelsea FC,Mamadou Sarr,20000000.0,14000000.0,-30.0,524
+Serie A,Hellas Verona,Amin Sarr,5000000.0,3500000.0,-30.0,525
+Super Lig,Gaziantep FK,Enver Kulasin,1000000.0,700000.0,-30.0,526
+Liga Portugal,Vitória Guimarães SC,Alioune Ndoye,1000000.0,700000.0,-30.0,527
+Eredivisie,Twente Enschede FC,Thomas van den Belt,1800000.0,1250000.0,-30.56,528
+Premier League,Leeds United,Sean Longstaff,20000000.0,13800000.0,-31.0,529
+Serie A,Udinese Calcio,Lennon Miller,8000000.0,5500000.0,-31.25,530
+Ligue 1,Stade Brestois 29,Pathé Mboup,2500000.0,1700000.0,-32.0,531
+Ligue 1,Olympique Marseille,Pierre-Emile Højbjerg,20000000.0,13500000.0,-32.5,532
+Liga Portugal,Sporting CP,Rui Silva,7000000.0,4700000.0,-32.86,533
+La Liga,Athletic Bilbao,Aymeric Laporte,15000000.0,10000000.0,-33.33,534
+Serie A,Inter Milan,Nicola Zalewski,12000000.0,8000000.0,-33.33,535
+Serie A,Torino FC,Zakaria Aboukhlal,12000000.0,8000000.0,-33.33,536
+La Liga,Real Betis Balompié,Rodrigo Riquelme,12000000.0,8000000.0,-33.33,537
+Ligue 1,Olympique Lyon,Dominik Greif,6000000.0,4000000.0,-33.33,538
+Serie A,Udinese Calcio,Jakub Piotrowski,4500000.0,3000000.0,-33.33,539
+La Liga,Celta de Vigo,Borja Iglesias,3000000.0,2000000.0,-33.33,540
+Liga Portugal,FC Famalicão,Garcia,3000000.0,2000000.0,-33.33,541
+Super Lig,Caykur Rizespor,Valentin Mihăilă,3000000.0,2000000.0,-33.33,542
+Eredivisie,AZ Alkmaar,Mateo Chávez,3000000.0,2000000.0,-33.33,543
+Eredivisie,FC Utrecht,Derry Murkin,1800000.0,1200000.0,-33.33,544
+Liga Portugal,CD Nacional,Matheus Dias,1500000.0,1000000.0,-33.33,545
+Bundesliga,TSG 1899 Hoffenheim,Deniz Zeitler,1500000.0,1000000.0,-33.33,546
+Liga Portugal,CF Estrela Amadora,Ianis Stoica,2000000.0,1300000.0,-35.0,547
+Bundesliga,1.FC Köln,Ragnar Ache,7000000.0,4500000.0,-35.71,548
+La Liga,Villarreal CF,Alberto Moleiro,25000000.0,16000000.0,-36.0,549
+Saudi Pro League,Al-Shabab FC,Yacine Adli,11000000.0,7000000.0,-36.36,550
+La Liga,Real Betis Balompié,Antony,35000000.0,22000000.0,-37.14,551
+Eredivisie,Feyenoord Rotterdam,Sem Steijn,16000000.0,10000000.0,-37.5,552
+La Liga,Celta de Vigo,Ferran Jutglà,8000000.0,5000000.0,-37.5,553
+Serie A,Juventus FC,Edon Zhegrova,25000000.0,15500000.0,-38.0,554
+Ligue 1,Stade Rennais FC,Valentin Rongier,9000000.0,5500000.0,-38.89,555
+Bundesliga,Eintracht Frankfurt,Jonathan Burkardt,35000000.0,21000000.0,-40.0,556
+Bundesliga,RB Leipzig,Johan Bakayoko,30000000.0,18000000.0,-40.0,557
+La Liga,Girona FC,Azzedine Ounahi,10000000.0,6000000.0,-40.0,558
+La Liga,Levante UD,Karl Etta Eyong,5000000.0,3000000.0,-40.0,559
+Super Lig,Trabzonspor,Wagner Pina,5000000.0,3000000.0,-40.0,560
+Ligue 1,LOSC Lille,Romain Perraud,5000000.0,3000000.0,-40.0,561
+Super Lig,Samsunspor,Afonso Sousa,5000000.0,3000000.0,-40.0,562
+Bundesliga,FC Augsburg,Han-Noah Massengo,5000000.0,3000000.0,-40.0,563
+Liga Portugal,Rio Ave FC,Clayton,5000000.0,3000000.0,-40.0,564
+La Liga,Real Oviedo,Ilyas Chaira,2500000.0,1500000.0,-40.0,565
+Ligue 1,Paris FC,Thibault De Smet,2500000.0,1500000.0,-40.0,566
+La Liga,Elche CF,Martim Neto,2500000.0,1500000.0,-40.0,567
+La Liga,Getafe CF,Juanmi,2000000.0,1200000.0,-40.0,568
+Eredivisie,SC Heerenveen,Maxence Rivera,1000000.0,600000.0,-40.0,569
+Liga Portugal,CD Nacional,Jesús Ramírez,1000000.0,600000.0,-40.0,570
+Ligue 1,Paris FC,Moses Simon,12000000.0,7000000.0,-41.67,571
+Super Lig,Samsunspor,Logi Tómasson,1200000.0,700000.0,-41.67,572
+Eredivisie,PSV Eindhoven,Kiliann Sildillia,10000000.0,5800000.0,-42.0,573
+Premier League,Arsenal FC,Kepa Arrizabalaga,10000000.0,5800000.0,-42.0,574
+Bundesliga,FC Augsburg,Cédric Zesiger,7000000.0,4000000.0,-42.86,575
+Bundesliga,Borussia Mönchengladbach,Giovanni Reyna,7000000.0,4000000.0,-42.86,576
+La Liga,Valencia CF,Filip Ugrinic,7000000.0,4000000.0,-42.86,577
+Super Lig,Basaksehir FK,Jakub Kaluzinski,3500000.0,2000000.0,-42.86,578
+Serie A,SS Lazio,Nicolò Rovella,30000000.0,17000000.0,-43.33,579
+Serie A,AC Milan,Pervis Estupiñán,30000000.0,17000000.0,-43.33,580
+Brasileiro,Fluminense Football Club,Luciano Acosta,6000000.0,3400000.0,-43.33,581
+Eredivisie,FC Utrecht,Mike Eerdhuijzen,2300000.0,1300000.0,-43.48,582
+Brasileiro,Sociedade Esportiva Palmeiras,Andreas Pereira,18000000.0,10000000.0,-44.44,583
+Super Lig,Kayserispor,German Onugkha,1800000.0,1000000.0,-44.44,584
+Super Lig,Fenerbahce,Ederson,20000000.0,11000000.0,-45.0,585
+Serie A,ACF Fiorentina,Tariq Lamptey,11000000.0,6000000.0,-45.45,586
+Brasileiro,Cruzeiro Esporte Clube,Marquinhos,5500000.0,3000000.0,-45.45,587
+Bundesliga,Borussia Dortmund,Daniel Svensson,12000000.0,6500000.0,-45.83,588
+Ligue 1,OGC Nice,Yehvann Diouf,12000000.0,6500000.0,-45.83,589
+Liga Portugal,FC Alverca,Figueiredo,1400000.0,750000.0,-46.43,590
+Liga Portugal,Gil Vicente FC,Joelson Fernandes,1400000.0,750000.0,-46.43,591
+Super Lig,Besiktas JK,Wilfred Ndidi,15000000.0,8000000.0,-46.67,592
+La Liga,Real Betis Balompié,Valentín Gómez,10000000.0,5300000.0,-47.0,593
+Saudi Pro League,Al-Kholood Club,John Buckley,2200000.0,1160000.0,-47.27,594
+Eredivisie,SC Heerenveen,Dylan Vente,2000000.0,1050000.0,-47.5,595
+Premier League,Crystal Palace,Borna Sosa,4500000.0,2300000.0,-48.89,596
+Serie A,Juventus FC,Pierre Kalulu,28000000.0,14300000.0,-48.93,597
+Premier League,Arsenal FC,Cristhian Mosquera,30000000.0,15000000.0,-50.0,598
+Ligue 1,RC Lens,Abdallah Sima,9000000.0,4500000.0,-50.0,599
+Serie A,Udinese Calcio,Saba Goglichidze,8000000.0,4000000.0,-50.0,600
+Ligue 1,Olympique Marseille,Neal Maupay,8000000.0,4000000.0,-50.0,601
+Brasileiro,Esporte Clube Bahia,Kayky,6000000.0,3000000.0,-50.0,602
+Bundesliga,FC Augsburg,Elias Saad,4000000.0,2000000.0,-50.0,603
+Ligue 1,Stade Brestois 29,Ludovic Ajorque,4000000.0,2000000.0,-50.0,604
+Serie A,Cagliari Calcio,Zé Pedro,4000000.0,2000000.0,-50.0,605
+Bundesliga,SC Freiburg,Derry Scherhant,4000000.0,2000000.0,-50.0,606
+La Liga,RCD Espanyol Barcelona,Clemens Riedel,4000000.0,2000000.0,-50.0,607
+Saudi Pro League,Al-Kholood Club,Jackson Muleka,3000000.0,1500000.0,-50.0,608
+Serie A,US Lecce,Christ-Owen Kouassi,2000000.0,1000000.0,-50.0,609
+Brasileiro,Fortaleza Esporte Clube,Yeison Guzmán,2000000.0,1000000.0,-50.0,610
+Bundesliga,VfB Stuttgart,Noah Darvich,2000000.0,1000000.0,-50.0,611
+Liga Portugal,FC Porto,Pablo Rosario,8000000.0,3750000.0,-53.13,612
+Ligue 1,RC Lens,Odsonne Édouard,8000000.0,3700000.0,-53.75,613
+Bundesliga,VfL Wolfsburg,Mohamed Amoura,32000000.0,14750000.0,-53.91,614
+Serie A,SS Lazio,Fisayo Dele-Bashiru,7500000.0,3430000.0,-54.27,615
+Ligue 1,OGC Nice,Salis Abdul Samed,5500000.0,2500000.0,-54.55,616
+Liga Portugal,SC Braga,Fran Navarro,6000000.0,2700000.0,-55.0,617
+Bundesliga,FC Augsburg,Anton Kade,5000000.0,2250000.0,-55.0,618
+Eredivisie,Twente Enschede FC,Kristian Hlynsson,4000000.0,1800000.0,-55.0,619
+Serie A,Pisa Sporting Club,Simone Scuffet,2000000.0,900000.0,-55.0,620
+Super Lig,Besiktas JK,Tiago Djaló,8000000.0,3500000.0,-56.25,621
+Bundesliga,1.FSV Mainz 05,William Bøving,8000000.0,3500000.0,-56.25,622
+Ligue 1,RC Strasbourg Alsace,Julio Enciso,22000000.0,9500000.0,-56.82,623
+Bundesliga,TSG 1899 Hoffenheim,Koki Machida,11000000.0,4750000.0,-56.82,624
+La Liga,Elche CF,Federico Redondo,5000000.0,2150000.0,-57.0,625
+Bundesliga,Eintracht Frankfurt,Rasmus Kristensen,14000000.0,6000000.0,-57.14,626
+Serie A,US Sassuolo,Tarik Muharemović,7000000.0,3000000.0,-57.14,627
+Super Lig,Samsunspor,Antoine Makoumbou,3500000.0,1500000.0,-57.14,628
+Saudi Pro League,Damac FC,Jamal Harkass,1400000.0,600000.0,-57.14,629
+Ligue 1,FC Nantes,Chidozie Awaziem,2000000.0,850000.0,-57.5,630
+Bundesliga,Hamburger SV,Nicolás Capaldo,5000000.0,2100000.0,-58.0,631
+Bundesliga,TSG 1899 Hoffenheim,Albian Hajdari,12000000.0,5000000.0,-58.33,632
+Ligue 1,FC Nantes,Johann Lepenant,6000000.0,2500000.0,-58.33,633
+La Liga,RCD Espanyol Barcelona,Charles Pickel,2400000.0,1000000.0,-58.33,634
+La Liga,Girona FC,Bryan Gil,15000000.0,6000000.0,-60.0,635
+Super Lig,Fenerbahce,Milan Škriniar,15000000.0,6000000.0,-60.0,636
+Ligue 1,Stade Brestois 29,Joris Chotard,6000000.0,2400000.0,-60.0,637
+Bundesliga,1.FC Köln,Alessio Castro-Montes,5000000.0,2000000.0,-60.0,638
+Super Lig,Samsunspor,Joe Mendes,3000000.0,1200000.0,-60.0,639
+La Liga,Deportivo Alavés,Carles Aleñá,2500000.0,1000000.0,-60.0,640
+Ligue 1,Paris FC,Kevin Trapp,2500000.0,1000000.0,-60.0,641
+Bundesliga,1.FC Köln,Marius Bülter,2500000.0,1000000.0,-60.0,642
+Eredivisie,PEC Zwolle,Simon Graves,1500000.0,600000.0,-60.0,643
+Super Lig,Samsunspor,Tanguy Coulibaly,1500000.0,600000.0,-60.0,644
+Bundesliga,FC Augsburg,Robin Fellhauer,1800000.0,700000.0,-61.11,645
+Brasileiro,Fortaleza Esporte Clube,Adam Bareiro,4000000.0,1540000.0,-61.5,646
+Eredivisie,Feyenoord Rotterdam,Anel Ahmedhodzic,18000000.0,6900000.0,-61.67,647
+Bundesliga,Bayer 04 Leverkusen,Tim Oermann,5000000.0,1900000.0,-62.0,648
+Super Lig,Fenerbahce,Marco Asensio,20000000.0,7500000.0,-62.5,649
+La Liga,Real Sociedad,Gonçalo Guedes,11000000.0,4000000.0,-63.64,650
+Premier League,Sunderland AFC,Bertrand Traoré,8000000.0,2900000.0,-63.75,651
+Super Lig,Göztepe,Juan,2500000.0,900000.0,-64.0,652
+Eredivisie,FC Utrecht,Yoann Cathline,8000000.0,2800000.0,-65.0,653
+La Liga,Real Sociedad,Carlos Soler,18000000.0,6000000.0,-66.67,654
+La Liga,FC Barcelona,Roony Bardghji,7500000.0,2500000.0,-66.67,655
+La Liga,Rayo Vallecano,Fran Pérez,3000000.0,1000000.0,-66.67,656
+Liga Portugal,Rio Ave FC,Dario Špikić,1800000.0,600000.0,-66.67,657
+Liga Portugal,FC Famalicão,Sorriso,5000000.0,1500000.0,-70.0,658
+Super Lig,Alanyaspor,Meschack Elia,4000000.0,1200000.0,-70.0,659
+Ligue 1,Paris FC,Jonathan Ikoné,7000000.0,2000000.0,-71.43,660
+La Liga,Valencia CF,Baptiste Santamaria,7000000.0,2000000.0,-71.43,661
+Bundesliga,VfL Wolfsburg,Denis Vavro,7000000.0,2000000.0,-71.43,662
+Serie A,AC Milan,Adrien Rabiot,25000000.0,7000000.0,-72.0,663
+Eredivisie,FC Utrecht,Miguel Rodríguez,4500000.0,1250000.0,-72.22,664
+La Liga,Rayo Vallecano,Augusto Batalla,6000000.0,1600000.0,-73.33,665
+La Liga,Elche CF,André Silva,4000000.0,1000000.0,-75.0,666
+Bundesliga,FC Augsburg,Chrislain Matsima,22000000.0,5000000.0,-77.27,667
+Serie A,SS Lazio,Nuno Tavares,25000000.0,5000000.0,-80.0,668
+Super Lig,Samsunspor,Toni Borevković,5000000.0,1000000.0,-80.0,669
+Bundesliga,Hamburger SV,Yussuf Poulsen,5000000.0,1000000.0,-80.0,670
+Super Lig,Caykur Rizespor,Qazim Laci,4000000.0,800000.0,-80.0,671
+Serie A,Hellas Verona,Domagoj Bradarić,4000000.0,750000.0,-81.25,672
+Super Lig,Genclerbirligi Ankara,Adama Traoré,3500000.0,600000.0,-82.86,673
+La Liga,Real Madrid,Trent Alexander-Arnold,75000000.0,10000000.0,-86.67,674
+Eredivisie,PSV Eindhoven,Myron Boadu,7000000.0,800000.0,-88.57,675
+Ligue 1,Olympique Marseille,Emerson,10000000.0,700000.0,-93.0,676
+Bundesliga,Bayern Munich,Jonathan Tah,30000000.0,2000000.0,-93.33,677
