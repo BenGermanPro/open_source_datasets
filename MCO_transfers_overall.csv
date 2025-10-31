@@ -1,0 +1,350 @@
+owner_name,team_name_a,team_name_b,transfers_since,nb_transfers
+BlueCo,Chelsea FC,Chelsea FC,2023.0,0
+BlueCo,Chelsea FC,RC Strasbourg Alsace,2024.0,10
+BlueCo,RC Strasbourg Alsace,Chelsea FC,2024.0,10
+BlueCo,RC Strasbourg Alsace,RC Strasbourg Alsace,2024.0,0
+City Football Group,Basaksehir FK,Basaksehir FK,2024.0,0
+City Football Group,Basaksehir FK,Bolívar La Paz,2024.0,0
+City Football Group,Basaksehir FK,ESTAC Troyes,2024.0,0
+City Football Group,Basaksehir FK,Esporte Clube Bahia,2024.0,0
+City Football Group,Basaksehir FK,Girona FC,2024.0,0
+City Football Group,Basaksehir FK,Lommel SK,2024.0,0
+City Football Group,Basaksehir FK,Manchester City,2024.0,0
+City Football Group,Basaksehir FK,Melbourne City FC,2024.0,0
+City Football Group,Basaksehir FK,Montevideo City Torque,2024.0,0
+City Football Group,Basaksehir FK,Mumbai City FC,2024.0,0
+City Football Group,Basaksehir FK,New York City FC,2024.0,0
+City Football Group,Basaksehir FK,Palermo FC,2024.0,0
+City Football Group,Basaksehir FK,Shenzhen Peng City,2024.0,1
+City Football Group,Basaksehir FK,Yokohama F. Marinos,2024.0,0
+City Football Group,Bolívar La Paz,Basaksehir FK,2024.0,0
+City Football Group,Bolívar La Paz,Bolívar La Paz,2021.0,0
+City Football Group,Bolívar La Paz,ESTAC Troyes,2021.0,0
+City Football Group,Bolívar La Paz,Esporte Clube Bahia,2023.0,0
+City Football Group,Bolívar La Paz,Girona FC,2021.0,0
+City Football Group,Bolívar La Paz,Lommel SK,2021.0,1
+City Football Group,Bolívar La Paz,Manchester City,2021.0,0
+City Football Group,Bolívar La Paz,Melbourne City FC,2021.0,0
+City Football Group,Bolívar La Paz,Montevideo City Torque,2021.0,1
+City Football Group,Bolívar La Paz,Mumbai City FC,2021.0,0
+City Football Group,Bolívar La Paz,New York City FC,2021.0,0
+City Football Group,Bolívar La Paz,Palermo FC,2022.0,0
+City Football Group,Bolívar La Paz,Shenzhen Peng City,2021.0,0
+City Football Group,Bolívar La Paz,Yokohama F. Marinos,2021.0,0
+City Football Group,ESTAC Troyes,Basaksehir FK,2024.0,0
+City Football Group,ESTAC Troyes,Bolívar La Paz,2021.0,0
+City Football Group,ESTAC Troyes,ESTAC Troyes,2020.0,0
+City Football Group,ESTAC Troyes,Esporte Clube Bahia,2023.0,0
+City Football Group,ESTAC Troyes,Girona FC,2020.0,1
+City Football Group,ESTAC Troyes,Lommel SK,2020.0,6
+City Football Group,ESTAC Troyes,Manchester City,2020.0,8
+City Football Group,ESTAC Troyes,Melbourne City FC,2020.0,0
+City Football Group,ESTAC Troyes,Montevideo City Torque,2020.0,0
+City Football Group,ESTAC Troyes,Mumbai City FC,2020.0,0
+City Football Group,ESTAC Troyes,New York City FC,2020.0,0
+City Football Group,ESTAC Troyes,Palermo FC,2022.0,0
+City Football Group,ESTAC Troyes,Shenzhen Peng City,2020.0,0
+City Football Group,ESTAC Troyes,Yokohama F. Marinos,2020.0,0
+City Football Group,Esporte Clube Bahia,Basaksehir FK,2024.0,0
+City Football Group,Esporte Clube Bahia,Bolívar La Paz,2023.0,0
+City Football Group,Esporte Clube Bahia,ESTAC Troyes,2023.0,0
+City Football Group,Esporte Clube Bahia,Esporte Clube Bahia,2023.0,0
+City Football Group,Esporte Clube Bahia,Girona FC,2023.0,0
+City Football Group,Esporte Clube Bahia,Lommel SK,2023.0,3
+City Football Group,Esporte Clube Bahia,Manchester City,2023.0,1
+City Football Group,Esporte Clube Bahia,Melbourne City FC,2023.0,0
+City Football Group,Esporte Clube Bahia,Montevideo City Torque,2023.0,0
+City Football Group,Esporte Clube Bahia,Mumbai City FC,2023.0,0
+City Football Group,Esporte Clube Bahia,New York City FC,2023.0,1
+City Football Group,Esporte Clube Bahia,Palermo FC,2023.0,0
+City Football Group,Esporte Clube Bahia,Shenzhen Peng City,2023.0,0
+City Football Group,Esporte Clube Bahia,Yokohama F. Marinos,2023.0,0
+City Football Group,Girona FC,Basaksehir FK,2024.0,0
+City Football Group,Girona FC,Bolívar La Paz,2021.0,0
+City Football Group,Girona FC,ESTAC Troyes,2020.0,1
+City Football Group,Girona FC,Esporte Clube Bahia,2023.0,0
+City Football Group,Girona FC,Girona FC,2017.0,0
+City Football Group,Girona FC,Lommel SK,2020.0,1
+City Football Group,Girona FC,Manchester City,2017.0,13
+City Football Group,Girona FC,Melbourne City FC,2017.0,0
+City Football Group,Girona FC,Montevideo City Torque,2017.0,1
+City Football Group,Girona FC,Mumbai City FC,2019.0,0
+City Football Group,Girona FC,New York City FC,2017.0,3
+City Football Group,Girona FC,Palermo FC,2022.0,0
+City Football Group,Girona FC,Shenzhen Peng City,2019.0,0
+City Football Group,Girona FC,Yokohama F. Marinos,2017.0,0
+City Football Group,Lommel SK,Basaksehir FK,2024.0,0
+City Football Group,Lommel SK,Bolívar La Paz,2021.0,1
+City Football Group,Lommel SK,ESTAC Troyes,2020.0,6
+City Football Group,Lommel SK,Esporte Clube Bahia,2023.0,3
+City Football Group,Lommel SK,Girona FC,2020.0,1
+City Football Group,Lommel SK,Lommel SK,2020.0,0
+City Football Group,Lommel SK,Manchester City,2020.0,4
+City Football Group,Lommel SK,Melbourne City FC,2020.0,0
+City Football Group,Lommel SK,Montevideo City Torque,2020.0,4
+City Football Group,Lommel SK,Mumbai City FC,2020.0,0
+City Football Group,Lommel SK,New York City FC,2020.0,1
+City Football Group,Lommel SK,Palermo FC,2022.0,1
+City Football Group,Lommel SK,Shenzhen Peng City,2020.0,0
+City Football Group,Lommel SK,Yokohama F. Marinos,2020.0,0
+City Football Group,Manchester City,Basaksehir FK,2024.0,0
+City Football Group,Manchester City,Bolívar La Paz,2021.0,0
+City Football Group,Manchester City,ESTAC Troyes,2020.0,8
+City Football Group,Manchester City,Esporte Clube Bahia,2023.0,1
+City Football Group,Manchester City,Girona FC,2017.0,13
+City Football Group,Manchester City,Lommel SK,2020.0,4
+City Football Group,Manchester City,Manchester City,2015.0,0
+City Football Group,Manchester City,Melbourne City FC,2015.0,4
+City Football Group,Manchester City,Montevideo City Torque,2017.0,0
+City Football Group,Manchester City,Mumbai City FC,2019.0,0
+City Football Group,Manchester City,New York City FC,2015.0,4
+City Football Group,Manchester City,Palermo FC,2022.0,0
+City Football Group,Manchester City,Shenzhen Peng City,2019.0,0
+City Football Group,Manchester City,Yokohama F. Marinos,2015.0,0
+City Football Group,Melbourne City FC,Basaksehir FK,2024.0,0
+City Football Group,Melbourne City FC,Bolívar La Paz,2021.0,0
+City Football Group,Melbourne City FC,ESTAC Troyes,2020.0,0
+City Football Group,Melbourne City FC,Esporte Clube Bahia,2023.0,0
+City Football Group,Melbourne City FC,Girona FC,2017.0,0
+City Football Group,Melbourne City FC,Lommel SK,2020.0,0
+City Football Group,Melbourne City FC,Manchester City,2015.0,4
+City Football Group,Melbourne City FC,Melbourne City FC,2015.0,0
+City Football Group,Melbourne City FC,Montevideo City Torque,2017.0,0
+City Football Group,Melbourne City FC,Mumbai City FC,2019.0,1
+City Football Group,Melbourne City FC,New York City FC,2015.0,1
+City Football Group,Melbourne City FC,Palermo FC,2022.0,0
+City Football Group,Melbourne City FC,Shenzhen Peng City,2019.0,0
+City Football Group,Melbourne City FC,Yokohama F. Marinos,2015.0,1
+City Football Group,Montevideo City Torque,Basaksehir FK,2024.0,0
+City Football Group,Montevideo City Torque,Bolívar La Paz,2021.0,1
+City Football Group,Montevideo City Torque,ESTAC Troyes,2020.0,0
+City Football Group,Montevideo City Torque,Esporte Clube Bahia,2023.0,0
+City Football Group,Montevideo City Torque,Girona FC,2017.0,1
+City Football Group,Montevideo City Torque,Lommel SK,2020.0,4
+City Football Group,Montevideo City Torque,Manchester City,2017.0,0
+City Football Group,Montevideo City Torque,Melbourne City FC,2017.0,0
+City Football Group,Montevideo City Torque,Montevideo City Torque,2017.0,0
+City Football Group,Montevideo City Torque,Mumbai City FC,2019.0,0
+City Football Group,Montevideo City Torque,New York City FC,2017.0,2
+City Football Group,Montevideo City Torque,Palermo FC,2022.0,1
+City Football Group,Montevideo City Torque,Shenzhen Peng City,2019.0,0
+City Football Group,Montevideo City Torque,Yokohama F. Marinos,2017.0,0
+City Football Group,Mumbai City FC,Basaksehir FK,2024.0,0
+City Football Group,Mumbai City FC,Bolívar La Paz,2021.0,0
+City Football Group,Mumbai City FC,ESTAC Troyes,2020.0,0
+City Football Group,Mumbai City FC,Esporte Clube Bahia,2023.0,0
+City Football Group,Mumbai City FC,Girona FC,2019.0,0
+City Football Group,Mumbai City FC,Lommel SK,2020.0,0
+City Football Group,Mumbai City FC,Manchester City,2019.0,0
+City Football Group,Mumbai City FC,Melbourne City FC,2019.0,1
+City Football Group,Mumbai City FC,Montevideo City Torque,2019.0,0
+City Football Group,Mumbai City FC,Mumbai City FC,2019.0,0
+City Football Group,Mumbai City FC,New York City FC,2019.0,0
+City Football Group,Mumbai City FC,Palermo FC,2022.0,0
+City Football Group,Mumbai City FC,Shenzhen Peng City,2019.0,1
+City Football Group,Mumbai City FC,Yokohama F. Marinos,2019.0,0
+City Football Group,New York City FC,Basaksehir FK,2024.0,0
+City Football Group,New York City FC,Bolívar La Paz,2021.0,0
+City Football Group,New York City FC,ESTAC Troyes,2020.0,0
+City Football Group,New York City FC,Esporte Clube Bahia,2023.0,1
+City Football Group,New York City FC,Girona FC,2017.0,3
+City Football Group,New York City FC,Lommel SK,2020.0,1
+City Football Group,New York City FC,Manchester City,2015.0,4
+City Football Group,New York City FC,Melbourne City FC,2015.0,1
+City Football Group,New York City FC,Montevideo City Torque,2017.0,2
+City Football Group,New York City FC,Mumbai City FC,2019.0,0
+City Football Group,New York City FC,New York City FC,2015.0,0
+City Football Group,New York City FC,Palermo FC,2022.0,0
+City Football Group,New York City FC,Shenzhen Peng City,2019.0,1
+City Football Group,New York City FC,Yokohama F. Marinos,2015.0,1
+City Football Group,Palermo FC,Basaksehir FK,2024.0,0
+City Football Group,Palermo FC,Bolívar La Paz,2022.0,0
+City Football Group,Palermo FC,ESTAC Troyes,2022.0,0
+City Football Group,Palermo FC,Esporte Clube Bahia,2023.0,0
+City Football Group,Palermo FC,Girona FC,2022.0,0
+City Football Group,Palermo FC,Lommel SK,2022.0,1
+City Football Group,Palermo FC,Manchester City,2022.0,0
+City Football Group,Palermo FC,Melbourne City FC,2022.0,0
+City Football Group,Palermo FC,Montevideo City Torque,2022.0,1
+City Football Group,Palermo FC,Mumbai City FC,2022.0,0
+City Football Group,Palermo FC,New York City FC,2022.0,0
+City Football Group,Palermo FC,Palermo FC,2022.0,0
+City Football Group,Palermo FC,Shenzhen Peng City,2022.0,0
+City Football Group,Palermo FC,Yokohama F. Marinos,2022.0,0
+City Football Group,Shenzhen Peng City,Basaksehir FK,2024.0,1
+City Football Group,Shenzhen Peng City,Bolívar La Paz,2021.0,0
+City Football Group,Shenzhen Peng City,ESTAC Troyes,2020.0,0
+City Football Group,Shenzhen Peng City,Esporte Clube Bahia,2023.0,0
+City Football Group,Shenzhen Peng City,Girona FC,2019.0,0
+City Football Group,Shenzhen Peng City,Lommel SK,2020.0,0
+City Football Group,Shenzhen Peng City,Manchester City,2019.0,0
+City Football Group,Shenzhen Peng City,Melbourne City FC,2019.0,0
+City Football Group,Shenzhen Peng City,Montevideo City Torque,2019.0,0
+City Football Group,Shenzhen Peng City,Mumbai City FC,2019.0,1
+City Football Group,Shenzhen Peng City,New York City FC,2019.0,1
+City Football Group,Shenzhen Peng City,Palermo FC,2022.0,0
+City Football Group,Shenzhen Peng City,Shenzhen Peng City,2019.0,0
+City Football Group,Shenzhen Peng City,Yokohama F. Marinos,2019.0,0
+City Football Group,Yokohama F. Marinos,Basaksehir FK,2024.0,0
+City Football Group,Yokohama F. Marinos,Bolívar La Paz,2021.0,0
+City Football Group,Yokohama F. Marinos,ESTAC Troyes,2020.0,0
+City Football Group,Yokohama F. Marinos,Esporte Clube Bahia,2023.0,0
+City Football Group,Yokohama F. Marinos,Girona FC,2017.0,0
+City Football Group,Yokohama F. Marinos,Lommel SK,2020.0,0
+City Football Group,Yokohama F. Marinos,Manchester City,2015.0,0
+City Football Group,Yokohama F. Marinos,Melbourne City FC,2015.0,1
+City Football Group,Yokohama F. Marinos,Montevideo City Torque,2017.0,0
+City Football Group,Yokohama F. Marinos,Mumbai City FC,2019.0,0
+City Football Group,Yokohama F. Marinos,New York City FC,2015.0,1
+City Football Group,Yokohama F. Marinos,Palermo FC,2022.0,0
+City Football Group,Yokohama F. Marinos,Shenzhen Peng City,2019.0,0
+City Football Group,Yokohama F. Marinos,Yokohama F. Marinos,2015.0,0
+Eagle Football Group,Botafogo de Futebol e Regatas,Botafogo de Futebol e Regatas,2022.0,0
+Eagle Football Group,Botafogo de Futebol e Regatas,Olympique Lyon,2023.0,5
+Eagle Football Group,Botafogo de Futebol e Regatas,RWD Molenbeek,2023.0,15
+Eagle Football Group,Olympique Lyon,Botafogo de Futebol e Regatas,2023.0,5
+Eagle Football Group,Olympique Lyon,Olympique Lyon,2023.0,0
+Eagle Football Group,Olympique Lyon,RWD Molenbeek,2023.0,9
+Eagle Football Group,RWD Molenbeek,Botafogo de Futebol e Regatas,2023.0,15
+Eagle Football Group,RWD Molenbeek,Olympique Lyon,2023.0,9
+Eagle Football Group,RWD Molenbeek,RWD Molenbeek,2023.0,0
+Evangelos Marinakis,Nottingham Forest,Nottingham Forest,2017.0,0
+Evangelos Marinakis,Nottingham Forest,Olympiacos Piraeus,2017.0,17
+Evangelos Marinakis,Nottingham Forest,Rio Ave FC,2023.0,4
+Evangelos Marinakis,Olympiacos Piraeus,Nottingham Forest,2017.0,17
+Evangelos Marinakis,Olympiacos Piraeus,Olympiacos Piraeus,2015.0,0
+Evangelos Marinakis,Olympiacos Piraeus,Rio Ave FC,2023.0,9
+Evangelos Marinakis,Rio Ave FC,Nottingham Forest,2023.0,4
+Evangelos Marinakis,Rio Ave FC,Olympiacos Piraeus,2023.0,9
+Evangelos Marinakis,Rio Ave FC,Rio Ave FC,2023.0,0
+Grupo Pachuca,CF Pachuca,CF Pachuca,2015.0,0
+Grupo Pachuca,CF Pachuca,Club León FC,2015.0,19
+Grupo Pachuca,CF Pachuca,Real Oviedo,2022.0,7
+Grupo Pachuca,Club León FC,CF Pachuca,2015.0,19
+Grupo Pachuca,Club León FC,Club León FC,2015.0,0
+Grupo Pachuca,Club León FC,Real Oviedo,2022.0,3
+Grupo Pachuca,Real Oviedo,CF Pachuca,2022.0,7
+Grupo Pachuca,Real Oviedo,Club León FC,2022.0,3
+Grupo Pachuca,Real Oviedo,Real Oviedo,2022.0,0
+Ineos,FC Lausanne-Sport,FC Lausanne-Sport,2017.0,0
+Ineos,FC Lausanne-Sport,Manchester United,2024.0,0
+Ineos,FC Lausanne-Sport,OGC Nice,2019.0,10
+Ineos,Manchester United,FC Lausanne-Sport,2024.0,0
+Ineos,Manchester United,Manchester United,2024.0,0
+Ineos,Manchester United,OGC Nice,2024.0,0
+Ineos,OGC Nice,FC Lausanne-Sport,2019.0,10
+Ineos,OGC Nice,Manchester United,2024.0,0
+Ineos,OGC Nice,OGC Nice,2019.0,0
+QSI,Al-Gharafa SC,Al-Gharafa SC,2015.0,0
+QSI,Al-Gharafa SC,Paris Saint-Germain,2015.0,0
+QSI,Al-Gharafa SC,SC Braga,2022.0,0
+QSI,Paris Saint-Germain,Al-Gharafa SC,2015.0,0
+QSI,Paris Saint-Germain,Paris Saint-Germain,2015.0,0
+QSI,Paris Saint-Germain,SC Braga,2022.0,3
+QSI,SC Braga,Al-Gharafa SC,2022.0,0
+QSI,SC Braga,Paris Saint-Germain,2022.0,3
+QSI,SC Braga,SC Braga,2022.0,0
+RedBird Capital,AC Milan,AC Milan,2022.0,0
+RedBird Capital,AC Milan,FC Toulouse,2022.0,0
+RedBird Capital,FC Toulouse,AC Milan,2022.0,0
+RedBird Capital,FC Toulouse,FC Toulouse,2020.0,0
+RedBull GmbH,FC Liefering,FC Liefering,2015.0,0
+RedBull GmbH,FC Liefering,Leeds United,2024.0,0
+RedBull GmbH,FC Liefering,New York Red Bulls,2015.0,0
+RedBull GmbH,FC Liefering,Paris FC,2025.0,0
+RedBull GmbH,FC Liefering,RB Leipzig,2015.0,2
+RedBull GmbH,FC Liefering,RB Omiya Ardija,2024.0,0
+RedBull GmbH,FC Liefering,Red Bull Bragantino,2020.0,1
+RedBull GmbH,FC Liefering,Red Bull Salzburg,2015.0,80
+RedBull GmbH,Leeds United,FC Liefering,2024.0,0
+RedBull GmbH,Leeds United,Leeds United,2024.0,0
+RedBull GmbH,Leeds United,New York Red Bulls,2024.0,0
+RedBull GmbH,Leeds United,Paris FC,2025.0,0
+RedBull GmbH,Leeds United,RB Leipzig,2024.0,0
+RedBull GmbH,Leeds United,RB Omiya Ardija,2024.0,0
+RedBull GmbH,Leeds United,Red Bull Bragantino,2024.0,0
+RedBull GmbH,Leeds United,Red Bull Salzburg,2024.0,0
+RedBull GmbH,New York Red Bulls,FC Liefering,2015.0,0
+RedBull GmbH,New York Red Bulls,Leeds United,2024.0,0
+RedBull GmbH,New York Red Bulls,New York Red Bulls,2015.0,0
+RedBull GmbH,New York Red Bulls,Paris FC,2025.0,0
+RedBull GmbH,New York Red Bulls,RB Leipzig,2015.0,4
+RedBull GmbH,New York Red Bulls,RB Omiya Ardija,2024.0,0
+RedBull GmbH,New York Red Bulls,Red Bull Bragantino,2020.0,0
+RedBull GmbH,New York Red Bulls,Red Bull Salzburg,2015.0,5
+RedBull GmbH,Paris FC,FC Liefering,2025.0,0
+RedBull GmbH,Paris FC,Leeds United,2025.0,0
+RedBull GmbH,Paris FC,New York Red Bulls,2025.0,0
+RedBull GmbH,Paris FC,Paris FC,2025.0,0
+RedBull GmbH,Paris FC,RB Leipzig,2025.0,0
+RedBull GmbH,Paris FC,RB Omiya Ardija,2025.0,0
+RedBull GmbH,Paris FC,Red Bull Bragantino,2025.0,0
+RedBull GmbH,Paris FC,Red Bull Salzburg,2025.0,0
+RedBull GmbH,RB Leipzig,FC Liefering,2015.0,2
+RedBull GmbH,RB Leipzig,Leeds United,2024.0,0
+RedBull GmbH,RB Leipzig,New York Red Bulls,2015.0,4
+RedBull GmbH,RB Leipzig,Paris FC,2025.0,0
+RedBull GmbH,RB Leipzig,RB Leipzig,2015.0,0
+RedBull GmbH,RB Leipzig,RB Omiya Ardija,2024.0,0
+RedBull GmbH,RB Leipzig,Red Bull Bragantino,2020.0,1
+RedBull GmbH,RB Leipzig,Red Bull Salzburg,2015.0,23
+RedBull GmbH,RB Omiya Ardija,FC Liefering,2024.0,0
+RedBull GmbH,RB Omiya Ardija,Leeds United,2024.0,0
+RedBull GmbH,RB Omiya Ardija,New York Red Bulls,2024.0,0
+RedBull GmbH,RB Omiya Ardija,Paris FC,2025.0,0
+RedBull GmbH,RB Omiya Ardija,RB Leipzig,2024.0,0
+RedBull GmbH,RB Omiya Ardija,RB Omiya Ardija,2024.0,0
+RedBull GmbH,RB Omiya Ardija,Red Bull Bragantino,2024.0,0
+RedBull GmbH,RB Omiya Ardija,Red Bull Salzburg,2024.0,0
+RedBull GmbH,Red Bull Bragantino,FC Liefering,2020.0,1
+RedBull GmbH,Red Bull Bragantino,Leeds United,2024.0,0
+RedBull GmbH,Red Bull Bragantino,New York Red Bulls,2020.0,0
+RedBull GmbH,Red Bull Bragantino,Paris FC,2025.0,0
+RedBull GmbH,Red Bull Bragantino,RB Leipzig,2020.0,1
+RedBull GmbH,Red Bull Bragantino,RB Omiya Ardija,2024.0,0
+RedBull GmbH,Red Bull Bragantino,Red Bull Bragantino,2020.0,0
+RedBull GmbH,Red Bull Bragantino,Red Bull Salzburg,2020.0,3
+RedBull GmbH,Red Bull Salzburg,FC Liefering,2015.0,80
+RedBull GmbH,Red Bull Salzburg,Leeds United,2024.0,0
+RedBull GmbH,Red Bull Salzburg,New York Red Bulls,2015.0,5
+RedBull GmbH,Red Bull Salzburg,Paris FC,2025.0,0
+RedBull GmbH,Red Bull Salzburg,RB Leipzig,2015.0,23
+RedBull GmbH,Red Bull Salzburg,RB Omiya Ardija,2024.0,0
+RedBull GmbH,Red Bull Salzburg,Red Bull Bragantino,2020.0,3
+RedBull GmbH,Red Bull Salzburg,Red Bull Salzburg,2015.0,0
+Saudi PIF,Al-Ahli SFC,Al-Ahli SFC,2023.0,0
+Saudi PIF,Al-Ahli SFC,Al-Hilal SFC,2023.0,3
+Saudi PIF,Al-Ahli SFC,Al-Ittihad Club,2023.0,0
+Saudi PIF,Al-Ahli SFC,Al-Nassr FC,2023.0,1
+Saudi PIF,Al-Ahli SFC,NEOM SC,2023.0,1
+Saudi PIF,Al-Ahli SFC,Newcastle United,2023.0,1
+Saudi PIF,Al-Hilal SFC,Al-Ahli SFC,2023.0,3
+Saudi PIF,Al-Hilal SFC,Al-Hilal SFC,2023.0,0
+Saudi PIF,Al-Hilal SFC,Al-Ittihad Club,2023.0,4
+Saudi PIF,Al-Hilal SFC,Al-Nassr FC,2023.0,1
+Saudi PIF,Al-Hilal SFC,NEOM SC,2023.0,5
+Saudi PIF,Al-Hilal SFC,Newcastle United,2023.0,0
+Saudi PIF,Al-Ittihad Club,Al-Ahli SFC,2023.0,0
+Saudi PIF,Al-Ittihad Club,Al-Hilal SFC,2023.0,4
+Saudi PIF,Al-Ittihad Club,Al-Ittihad Club,2023.0,0
+Saudi PIF,Al-Ittihad Club,Al-Nassr FC,2023.0,1
+Saudi PIF,Al-Ittihad Club,NEOM SC,2023.0,3
+Saudi PIF,Al-Ittihad Club,Newcastle United,2023.0,0
+Saudi PIF,Al-Nassr FC,Al-Ahli SFC,2023.0,1
+Saudi PIF,Al-Nassr FC,Al-Hilal SFC,2023.0,1
+Saudi PIF,Al-Nassr FC,Al-Ittihad Club,2023.0,1
+Saudi PIF,Al-Nassr FC,Al-Nassr FC,2023.0,0
+Saudi PIF,Al-Nassr FC,NEOM SC,2023.0,0
+Saudi PIF,Al-Nassr FC,Newcastle United,2023.0,0
+Saudi PIF,NEOM SC,Al-Ahli SFC,2023.0,1
+Saudi PIF,NEOM SC,Al-Hilal SFC,2023.0,5
+Saudi PIF,NEOM SC,Al-Ittihad Club,2023.0,3
+Saudi PIF,NEOM SC,Al-Nassr FC,2023.0,0
+Saudi PIF,NEOM SC,NEOM SC,2023.0,0
+Saudi PIF,NEOM SC,Newcastle United,2023.0,0
+Saudi PIF,Newcastle United,Al-Ahli SFC,2023.0,1
+Saudi PIF,Newcastle United,Al-Hilal SFC,2023.0,0
+Saudi PIF,Newcastle United,Al-Ittihad Club,2023.0,0
+Saudi PIF,Newcastle United,Al-Nassr FC,2023.0,0
+Saudi PIF,Newcastle United,NEOM SC,2023.0,0
+Saudi PIF,Newcastle United,Newcastle United,2021.0,0
